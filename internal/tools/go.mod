@@ -12,7 +12,7 @@ require (
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/hashicorp/go-changelog v0.0.0-20220419201213-5edfc0d651d8
 	github.com/jgautheron/goconst v1.5.1
-	github.com/kyoh86/exportloopref v0.1.8
+	github.com/kyoh86/exportloopref v0.1.11
 	github.com/orijtech/structslop v0.0.6
 	github.com/ramya-rao-a/go-outline v0.0.0-20210608161538-9736a4bde949
 	github.com/securego/gosec/v2 v2.13.1
