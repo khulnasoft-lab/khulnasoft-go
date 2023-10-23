@@ -3,7 +3,7 @@ module github.com/khulnasoft-lab/khulnasoft-go/internal/tools
 go 1.18
 
 require (
-	github.com/breml/bidichk v0.2.3
+	github.com/breml/bidichk v0.2.7
 	github.com/khulnasoft-lab/khulnasoft-go v0.48.0
 	github.com/curioswitch/go-reassign v0.2.0
 	github.com/cweill/gotests v1.6.0
