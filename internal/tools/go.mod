@@ -18,7 +18,7 @@ require (
 	github.com/securego/gosec/v2 v2.13.1
 	github.com/uudashr/gopkgs/v2 v2.1.2
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
-	golang.org/x/oauth2 v0.0.0-20220822191816-0ebed06d0094
+	golang.org/x/oauth2 v0.18.0
 	golang.org/x/tools/gopls v0.9.4
 )
 
