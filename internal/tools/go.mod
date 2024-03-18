@@ -10,7 +10,7 @@ require (
 	github.com/go-delve/delve v1.9.0
 	github.com/golangci/golangci-lint v1.48.0
 	github.com/google/go-github v17.0.0+incompatible
-	github.com/hashicorp/go-changelog v0.0.0-20220419201213-5edfc0d651d8
+	github.com/hashicorp/go-changelog 4d68c58a6e7f
 	github.com/jgautheron/goconst v1.5.1
 	github.com/kyoh86/exportloopref v0.1.8
 	github.com/orijtech/structslop v0.0.6
